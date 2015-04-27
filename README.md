@@ -6,6 +6,9 @@ Instruments and effects for MuLab and Mux Modular
 We should avoid "branches"! (Useful for text-code only.)
 
 Structure is:
+
   effects\
+
   instruments\
+
   ...
